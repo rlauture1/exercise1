@@ -1,4 +1,5 @@
-# Auto detect text files and perform LF normalization
+# Aut
+o detect text files and perform LF normalization
 * text=auto
 
 # Custom for Visual Studio
@@ -15,3 +16,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+git init. 
+echo "first changes"> file1.txt
