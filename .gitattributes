@@ -1,2 +1,5 @@
 git init. 
-
+echo "first changes". file1.txt
+echo "A ver imporant message"> file2.txt
+git add.
+git commit-m"my first commit"
